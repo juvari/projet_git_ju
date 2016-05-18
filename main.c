@@ -16,5 +16,7 @@ printf("salut les gens ici ici/X\n");
   }
 printf("modif dans labas\n");
   printf("trouvé !\n");
+printf("j'ajoute dans ici/X\n"):
+printf("et je fais des betisssssssssssssssssssssse\n");
 return 0;
 }
