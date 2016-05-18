@@ -14,7 +14,7 @@ printf("salut les gens ici ici/X\n");
    proposition = entrer_nombre();
    test=afficher_comparaison(proposition, a_trouver);
   }
-printf("modif dans labas\n");
+printf("modif dans labas et add pour exo11\n");
   printf("trouvé !\n");
 return 0;
 }
