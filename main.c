@@ -8,7 +8,7 @@ int main()
   int a_trouver = generer_hasard();
   int proposition;
   int test = 0;
-printf("salut les gens \n");
+printf("salut les gens ici ici/X\n");
   while (test != 1)
   {
    proposition = entrer_nombre();
