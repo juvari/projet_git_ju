@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include "fonctions.h"
+int func2(){
+	printf("whollaaaa\n");
+
+}
 
 int newFunction(){
 	printf("Je suis une nouvelle fonction !!!!!\n");
